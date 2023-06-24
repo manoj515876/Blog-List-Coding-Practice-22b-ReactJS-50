@@ -1,0 +1,22 @@
+.user-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+}
+
+.profile-heading {
+  color: #12022f;
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+.profile-para {
+  color: #616e7c;
+  font-family: Roboto;
+}
